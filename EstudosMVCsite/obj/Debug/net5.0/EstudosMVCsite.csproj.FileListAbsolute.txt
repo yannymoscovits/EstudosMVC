@@ -354,3 +354,8 @@ C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.
 C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.0\EstudosMVCsite.pdb
 C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.0\EstudosMVCsite.genruntimeconfig.cache
 C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.0\ref\EstudosMVCsite.dll
+C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.0\staticwebassets\EstudosMVCsite.StaticWebAssets.Pack.cache
+C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.0\staticwebassets\msbuild.EstudosMVCsite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.0\staticwebassets\msbuild.build.EstudosMVCsite.props
+C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.EstudosMVCsite.props
+C:\Users\yanny\Desktop\Estudos MVC\EstudosMVCsite\EstudosMVCsite\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.EstudosMVCsite.props

@@ -15,12 +15,19 @@ namespace EstudosMVCsite.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            HomeModel model = new HomeModel();
+            model.Nome = "Yanny Moscovits";
+            model.Email = "yannymoscovits@gmail.com";
+            return View(model);
+
         }
 
         public IActionResult Privacy()
         {
-            return View();
+            HomeModel model = new HomeModel();
+            model.Nome = "Yanny Moscovits";
+            model.Email = "yannymoscovits@gmail.com";
+            return View(model);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
